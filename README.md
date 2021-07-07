@@ -1,70 +1,18 @@
-# Getting Started with Create React App
+### AstroMatch
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Te ajudamos a encontrar seu par, sua metade da laranja, a tampa de sua panela, a sua alma gêmea, ou seja lá como você chama o seu chamego. Venha dar um match e ficar todo love love.
 
-## Available Scripts
+A aplicação conta com uma tela inicial, uma tela visualização de matchs e uma tela de configurações:
+- A tela inicial possui um  header com a logo do app e dois botões que possibilitam o usuário ir para tela de configurações e para tela de matchs. É nesta tela que são apresentados os perfis, com foto, nome, idade e uma breve descrição dos usuários, que podem ser aceitos ou recusados com os botões logo abaixo.
+- A tela onde é possível visualizar os matchs apresenta o usuário com uma foto de perfil e seu respectivo nome. Também possui um header com a logo e um botão que redireciona o usuário a tela incial.
+- A tela de configurações possui um botão que permite o usuário resetar seus swipes e matches, que em caso de sucesso retorna uma mensagem.  Também possui um header com a logo e um botão que redireciona o usuário a tela incial.
 
-In the project directory, you can run:
+### Link Surge 
+https://clever-trees.surge.sh
 
-### `npm start`
+### Imagens
+![image](https://user-images.githubusercontent.com/60436191/120837192-cb08e700-c53c-11eb-97ed-8a4210f8fbef.png)
+![image](https://user-images.githubusercontent.com/60436191/120837323-ef64c380-c53c-11eb-98a5-cb6d8dc01de8.png)
+![image](https://user-images.githubusercontent.com/60436191/120837393-04d9ed80-c53d-11eb-99f2-6b9ab869de5c.png)
+![image](https://user-images.githubusercontent.com/60436191/120837448-17542700-c53d-11eb-9303-7ba7eb0f1afb.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
